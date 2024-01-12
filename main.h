@@ -5,10 +5,6 @@
 #ifndef COMMANDLINE_MAIN_H
 #define COMMANDLINE_MAIN_H
 
-#include <iostream>
-
-
-using std::cout;
-using std::endl;
+#include <stdio.h>
 
 #endif //COMMANDLINE_MAIN_H
